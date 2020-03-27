@@ -1,0 +1,8 @@
+repo:             file-transfer-basics
+site_name:        File Transfer Basics
+authors:      
+  - name: Helen Kershaw
+    github_user: hkershaw-brown
+site_description: An overview of methods for moving files onto and off of Oscar. Topics covered include: Linux command line tools for file transfer (scp, rsync, sftp), GUI-based file transfer applications, mounting Oscar’s filesystem using CIFS, and using Globus on Oscar.
+docs_url:         https://github.com/brown-ccv/file-transfer-basics
+type:             workshop    # required. choose one of [software, tutorial, workshop, documentation]
